@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 ## 👩‍💻 Vanessa Larrosa
 
@@ -31,3 +29,24 @@ I’m curious, driven, and love asking questions. I'm looking for my next opport
 
 If you want to connect, share tech experiences or talk about crazy ideas that combine coding and education — I'm all ears!
 
+
+## 🛠️ Tech Stack
+
+💻 **Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
+
+🧰 **Tools & Platforms:**  
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Plastic SCM](https://img.shields.io/badge/Plastic%20SCM-007ACC?style=flat&logo=plastic-scm&logoColor=white)
+
+📚 **Currently Learning:**  
+`.NET` · `Data Science` · `Backend Frameworks`
+
+🌟 **Soft Skills:**  
+Teamwork 🤝 · Communication 💬 · Adaptability 🔄 · Problem-solving 🧩 · Creativity 🎨
+
+## 📫 Contact
+
+📍 Zaragoza, Spain  
+💬 Languages: Native Spanish · Intermediate English (B1)  
+✉️ Email: vanessalarrosadev@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vanessa-larrosa-vilar/)
