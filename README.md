@@ -39,7 +39,7 @@ If you want to connect, share tech experiences or talk about crazy ideas that co
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Plastic SCM](https://img.shields.io/badge/Plastic%20SCM-007ACC?style=flat&logo=plastic-scm&logoColor=white)
 
 📚 **Currently Learning:**  
-`.NET` · `Data Science` · `Backend Frameworks`
+`.NET` · `Backend Frameworks`
 
 🌟 **Soft Skills:**  
 Teamwork 🤝 · Communication 💬 · Adaptability 🔄 · Problem-solving 🧩 · Creativity 🎨
