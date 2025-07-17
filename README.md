@@ -3,9 +3,11 @@
 
 ## 👩‍💻 Vanessa Larrosa
 
-[![LinkedIn](https://www.linkedin.com/in/vanessa-larrosa-vilar/)
-![Languages](https://img.shields.io/badge/Languages-Español%20%26%20English-informational?style=flat)
-![Status](https://img.shields.io/badge/Backend-In%20Progress-blueviolet?style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vanessa--larrosa--vilar-%237bbdd3?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-larrosa-vilar/)
+![Languages](https://img.shields.io/badge/Languages-Spanish%20%7C%20English-%23cda4de?style=flat&logo=google-translate&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-.NET%20%7C%20Data%20Science-%237bbdd3?style=flat&logo=book&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Backend%20Development-%23cda4de?style=flat&logo=code&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-%237bbdd3?style=flat&logo=rocket&logoColor=white)
 
 ---
 
@@ -16,7 +18,7 @@ def new_chapter():
     print("Hello world, version 2.0 of my career begins.")
 
 new_chapter()
-
+```
 Hi there! I'm Vanessa Larrosa, a freshly graduated software developer from a vocational training program in Multiplatform App Development (DAM), now setting course towards backend development. I'm currently learning Java, Python, and will be starting with .NET in September.
 
 I also built a simulation project with Unity and C#, and I'm exploring paths like app development and data science – because why stick to one when everything is exciting?
