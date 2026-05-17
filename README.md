@@ -19,13 +19,11 @@ def lo_que_construyo():
     ]
 ```
 
-¡Hola! Soy Vanessa Larrosa — **Directora del Departamento de Automatizaciones y Agentes de IA** en **IA Experience**.
+¡Hola! Soy Vanessa Larrosa, **Encargada del departamento de automatizaciones y agentes de IA** en **IA Experience**.
 
 Diseño y construyo sistemas de inteligencia artificial aplicada: desde agentes con memoria y herramientas hasta pipelines de automatización completos que resuelven problemas reales en empresas. Mi trabajo está en la intersección entre arquitectura técnica, consultoría de IA y formación especializada.
 
-Actualmente lidero el desarrollo del **programa de formación Claude** para nuestra academia (lanzamiento jun–jul 2026) y la arquitectura de soluciones RAG, agentes y automatizaciones para clientes de distintos sectores.
-
-Con base en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y especialización posterior en **Data Analytics** e **Inteligencia Artificial**, llevo la visión técnica desde el prototipo hasta producción — pasando por la propuesta comercial.
+Con base en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y especialización posterior en **Data Analytics** e **Inteligencia Artificial**, llevo la visión técnica desde el prototipo hasta producción, pasando por la propuesta comercial.
 
 ## 🛠️ Stack Tecnológico
 
@@ -63,7 +61,7 @@ Pensamiento sistémico 🧠 · Comunicación técnica 💬 · Visión arquitect�
 ## 🚀 Actualmente
 
 - 💼 Formando parte del equipo de **IA Experience**, liderando el desarrollo de varios proyectos de IA y automatización
-- 🤖 Construyendo **L.E.O** — mi asistente personal con IA *(en construcción)*
+- 🤖 Construyendo **L.E.O**, mi asistente personal con IA *(en construcción)*
 
 ## Contacto
 
@@ -95,14 +93,11 @@ def what_i_build():
     ]
 ```
 
-Hi! I'm Vanessa Larrosa — **Head of AI Automation & Agents** at **IA Experience**.
+Hi! I'm Vanessa Larrosa **Head of AI Automation & Agents** at **IA Experience**.
 
 I design and build applied AI systems: from agents with memory and tools to full automation pipelines that solve real business problems. My work sits at the intersection of technical architecture, AI consulting, and specialized training.
 
-I currently lead the development of the **Claude training program** for our academy (launching Jun–Jul 2026) and the architecture of RAG solutions, agents, and automations for clients across different industries.
-
-With a foundation in **Multiplatform App Development (DAM)** and further specialization in **Data Analytics** and **Artificial Intelligence**, I take technical vision from prototype to production — including the commercial proposal.
-
+With a foundation in **Multiplatform App Development (DAM)** and further specialization in **Data Analytics** and **Artificial Intelligence**, I take technical vision from prototype to production.
 ## 🛠️ Tech Stack
 
 ### Automation & Artificial Intelligence
