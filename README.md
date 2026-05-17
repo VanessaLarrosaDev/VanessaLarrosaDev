@@ -26,7 +26,7 @@ Actualmente curso dos másteres para profundizar en estas áreas:
 - **Máster en Data Analytics** con The Power  
 - **Máster en Inteligencia Artificial** con Power AI
 
-Recientemente, completé un [translate:curso muy completo de Generative AI y Productividad] de IA Experience, aprendiendo cómo la inteligencia artificial puede optimizar procesos y aportar valor en las empresas.
+Recientemente, completé un curso muy completo de IA Generativa y Productividad de IA Experience, aprendiendo cómo la inteligencia artificial puede optimizar procesos y aportar valor en las empresas.
 
 Busco oportunidades para ganar **experiencia práctica** en análisis de datos o business intelligence — incluso en prácticas — y seguir aprendiendo con proyectos reales.
 
